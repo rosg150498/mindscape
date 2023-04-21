@@ -40,5 +40,5 @@
 
 ## Deployment 
 
-### References / Sources of Inspiration
+## References / Sources of Inspiration
 
