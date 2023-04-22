@@ -103,6 +103,22 @@ The aim of this site is to advise to those struggling that they are not alone an
 
 ## Expectations
 
+* I expect the webpage to load with ease
+
+* I expect the website to be visually appealing, with a design that is professional and easy to navigate.
+
+* I expect the navigation links to navigate to the relevant page sections.
+
+* I expect that all content should be accurate, up-to-date, and written in a tone that is supportive to users who may be struggling with mental health issues.
+
+* I expect the website to include clear and prominent links to relevant mental health resources, such as hotlines and crisis centers, to provide users with immediate assistance if needed.
+
+* I expect the contact form should be user-friendly with validation techniques to ensure it is easy for users to submit their queries or feedback.
+
+* I expect all images and other multimedia content used on the website to include alt text for support to visually impaired users.
+
+* I expect the single page website to be responsive across different devices, including desktops, laptops, tablets, and mobile phones.
+
 <hr>
 
 ## Website Design Choices
