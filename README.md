@@ -44,7 +44,7 @@ The aim of this site is to advise to those struggling that they are not alone an
 
 <hr>
 
-## User Stories
+### User Stories
 
 <hr>
 
