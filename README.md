@@ -32,7 +32,7 @@ The aim of this site is to advise to those struggling that they are not alone an
 
 <hr>
 
-## Website Design Colours
+## Website Design Choices
 
 ## Colours
 
