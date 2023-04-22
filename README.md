@@ -46,6 +46,22 @@ The aim of this site is to advise to those struggling that they are not alone an
 
 ### User Stories
 
+1) As a user, I want the website to load quickly so that I can access the information without delay.
+
+2) As a user, I want the website to be easy to navigate with a clear and intuitive navigation menu, so that I can quickly find the information or resources I need.
+
+3) As a user, I want the website to be visually appealing and engaging, so that I am motivated to continue exploring and learning more about mental health.
+
+4) As a user, I want to be able to easily find information about different mental health conditions, so that I can learn more and understand what I or someone I know might be going through.
+ 
+5) As a user, I want to have access to resources and tools including links to further information or support for mental health concerns so that it can help me improve my mental health and well-being, so that I can take positive steps towards better mental health.
+
+6) As a user, I want to feel safe and supported when sharing my thoughts and feelings , so that I can receive advice and guidance from professionals or other people who have experienced similar issues when utilising the contact form
+
+7) As a user who is experiencing depression, I want to feel part of an environment with individuals who are going through similar struggles so that I can feel less isolated and alone.
+
+8) As a user, I want to be able to access the website on any device, whether it's a computer, tablet, or smartphone.
+
 <hr>
 
 ## Site Owner Goals
