@@ -82,7 +82,24 @@ The aim of this site is to advise to those struggling that they are not alone an
 
 ## Requirements 
 
+* The single page website should load quickly and have minimal downtime to ensure that users can access it when they need it.
+
+* The site is designed to have a clear and easy-to-use navigation menu that allows users to easily find the information they need.
+
+* The site includes appropriate headings that are used correctly to provide meaning for the user.
+
+* The information provided is easily comprehensible and engaging, ensuring the user's interest is sustained throughout.
+
+* The website should include informative and accurate content that provides helpful resources and advice for users seeking support for mental health issues.
+
+* The website should be accessible on various screen devices such as desktops, tablets, mobile and also designed for laptops.
+
+* The website should include a contact form that is easy to use and allows users to get in touch with the site owner or signposted to a mental health professional for support and advice.
+
+* The website should have a consistent and visually appealing design that reflects the tone and purpose of the site.
+
 <hr>
+
 
 ## Expectations
 
