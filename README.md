@@ -66,6 +66,18 @@ The aim of this site is to advise to those struggling that they are not alone an
 
 ## Site Owner Goals
 
+* Advertise information and support for mental health issues.
+
+* Increase awareness and understanding of mental health issues through informative content and resources.
+
+* Create a online single page website platform that encourages users to seek professional help and support for their mental health concerns.
+
+* Promote the importance of mental health and destigmatize seeking help for mental health issues.
+
+* Ensure website to be responsive and optimized for different devices such as desktop, tablet, and mobile.
+ 
+* Ensure that the contact form is fully responsive and designed using validation techniques.
+ 
 <hr>
 
 ## Requirements 
