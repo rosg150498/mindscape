@@ -132,7 +132,7 @@ For the mental health supportive single page website appearance I will be employ
 
 I experimented with a wide variety of fonts found on the Google Fonts website in order to find a typeface that I believe would be suitable for the single-page website that is dedicated to mental health support. As it is clean, inviting, and easy to read, the sans-serif typeface 'Open Sans' will serve as the primary body of the text I will be composing. It is also a font that works well for people who have dyslexia. Because of these properties, individuals are able to easily interpret the content and quickly navigate between the various sections of the website without encountering any difficulties. I have decided to use the Lato font family for the header, navigation, headings, and footer because it contrasts well and prevents excessive usage of the font type. This decision was based on the fact that Lato is a sans-serif font.
 
-## Logo
+## Logo / Icons
 
 When designing my mental health website, I will use icons from the flat icon website, which can be found at (https://www.flaticon.com/). I will use visual representations for each section of the website to ensure user-friendliness and assist individuals who suffer from mental health issues. For instance, I will represent the seeking help and treatment section with connected individuals to help users feel welcome, connected, and, most importantly, supported. I will ensure consistency throughout the single-page website by incorporating suitable icons for each section.
 
