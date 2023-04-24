@@ -176,6 +176,39 @@ Mobile First Wireframe Design:
 
 <hr>
 
+Tablet Wireframe Design: 
+
+<hr>
+
+![Home Section Tablet Design](https://user-images.githubusercontent.com/114010857/234113039-aee07616-2271-4168-9caf-c2e075ff3f48.png)
+
+<hr>
+
+![About Us Section Tablet Design](https://user-images.githubusercontent.com/114010857/234113110-5725e4a0-8930-4f59-a113-03d484a9da8a.png)
+
+<hr>
+
+![Symptoms Section Tablet Design](https://user-images.githubusercontent.com/114010857/234113195-25f69002-6d80-41e1-90d2-f2b37bd74026.png)
+
+<hr>
+
+![Common Conditions Section Tablet Design](https://user-images.githubusercontent.com/114010857/234113467-6791c4ed-552a-4ef8-a09f-cfdf54b84586.png)
+
+<hr>
+
+![Seeking Help and Treatment Section Tablet Design ](https://user-images.githubusercontent.com/114010857/234113338-5844dec5-fcde-41b9-83c4-196c4ace492d.png)
+
+<hr>
+
+![Resources _ Support Section Tablet Design](https://user-images.githubusercontent.com/114010857/234113686-40e6f0dd-db5a-4ae2-9e7e-b4a0249a2738.png)
+
+<hr>
+
+![Contact Us Section Tablet Design ](https://user-images.githubusercontent.com/114010857/234113741-8324b584-1638-4ca4-9700-481c38463293.png)
+
+<hr>
+
+
 ## Current Features
 
 <hr>
