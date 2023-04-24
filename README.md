@@ -208,6 +208,34 @@ Tablet Wireframe Design:
 
 <hr>
 
+Desktop Wireframe Design:
+
+<hr>
+
+![Home Section](https://user-images.githubusercontent.com/114010857/234115924-b0c97e80-ae7e-44a4-b8e3-2e7d8a8081f1.png)
+
+<hr>
+
+![About Us Section](https://user-images.githubusercontent.com/114010857/234115970-fc711f3d-4a43-4cb6-a503-1836629bf811.png)
+
+<hr>
+
+![Symptoms and Common Condition Section](https://user-images.githubusercontent.com/114010857/234116049-a2c2af7c-a104-46ec-904e-d28acda3cfe4.png)
+
+<hr>
+
+![Seeking Help and Treatment Section](https://user-images.githubusercontent.com/114010857/234116345-cf4e1707-300c-48ce-a733-d8c39863055a.png)
+
+<hr>
+
+![Resources _ Support Section](https://user-images.githubusercontent.com/114010857/234116414-4e320899-cca0-4a31-b616-1508fe55a21c.png)
+
+<hr>
+
+![Contact Us Section](https://user-images.githubusercontent.com/114010857/234116494-c1658b5f-6411-4405-9b71-c33daaee7a15.png)
+
+<hr>
+
 
 ## Current Features
 
