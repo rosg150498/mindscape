@@ -140,6 +140,40 @@ When designing my mental health website, I will use icons from the flat icon web
 
 ## Media Queries / Responsive Design
 
+I used Balsamiq to create wireframe concepts while developing my single-page website for the Mindscape project. To enhance user experience, I initially focused on a mobile-first design and then scaled it up for tablet and desktop use. I am of the belief that a single-page design can effectively engage users and provide them with seamless access to supportive information through the use of a navigation bar, page scrolling, and a 'return to top' button. I implemented this functionality as part of my ongoing efforts to create a user-friendly interface that meets the needs of my visitors.
+
+<hr>
+
+Mobile First Wireframe Design:
+
+<hr>
+
+![Home Section Mobile Design](https://user-images.githubusercontent.com/114010857/234111779-795aa66e-5ae4-4d33-85ea-851fbc09bad9.png)
+
+<hr>
+
+![About Us Section Mobile Design](https://user-images.githubusercontent.com/114010857/234112033-631028e0-c0eb-4a01-b414-c341870fa66b.png)
+
+<hr>
+
+![Symptoms Section Mobile Design](https://user-images.githubusercontent.com/114010857/234115482-ad081fa6-e1d1-45ee-b1fd-1894d6cedba0.png)
+
+<hr>
+
+![Common Conditions Section Mobile Design](https://user-images.githubusercontent.com/114010857/234112308-3e52c0b1-8fb1-4381-ada3-17a193261dd2.png)
+
+<hr>
+
+![Seeking Help and Treatment Section Mobile Design](https://user-images.githubusercontent.com/114010857/234112385-60659b68-87ad-428a-9b82-0bc8d66f4565.png)
+
+<hr>
+
+![Resources _ Support Section Mobile Design](https://user-images.githubusercontent.com/114010857/234112480-a0c97a1d-4d38-475c-b1b3-91d2be7d33d4.png)
+
+<hr>
+
+![Contact Us Section Mobile Design](https://user-images.githubusercontent.com/114010857/234112584-c7c6fe12-1d6a-45ab-acc0-354530bb923f.png)
+
 <hr>
 
 ## Current Features
