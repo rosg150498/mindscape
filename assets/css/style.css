@@ -20,3 +20,9 @@ body{
     width: 4rem;
 }
 
+.logo-text{
+    background-image: url(../images/logo-text.png);
+    background-repeat: no-repeat no-repeat;
+    height: 8rem;
+    width: 15rem;
+}
