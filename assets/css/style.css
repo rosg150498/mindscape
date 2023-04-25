@@ -121,8 +121,8 @@ body{
 /* symptoms section */
 
 .symptoms-logo{
-    height: 600px;
-    width: 600px;
+    height: 150px;
+    width: 150px;
     background: url(../images/symptoms-icon.png) no-repeat no-repeat;
     margin-top: 10rem;
     margin-left: 24rem;
