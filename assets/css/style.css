@@ -96,3 +96,12 @@ body{
     margin-left: 45rem;
 }
 
+.about-us-info{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    margin-left: 16rem;
+    width: 70%;
+}
+
