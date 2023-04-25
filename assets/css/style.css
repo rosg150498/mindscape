@@ -9,6 +9,9 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 
+
+/* navigation bar, logo and navigation links */
+
 #mindscape-home-nav{
     background-color: #00B500;
     display: flex;
@@ -54,4 +57,5 @@ body{
 #nav-links li a{
     color: #000000;
 }
+
 
