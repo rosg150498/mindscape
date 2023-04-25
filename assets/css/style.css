@@ -67,3 +67,13 @@ body{
     background: url(../images/mindscape-home-image.png) no-repeat center center;
     margin-top: -4.6rem;
 }
+
+/* home welcoming text */
+
+#home-welcoming-text{
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    font-size: 38px;
+    margin-top: -4rem;
+    margin-left: 22rem;
+}
