@@ -125,9 +125,16 @@ body{
     width: 150px;
     background: url(../images/symptoms-icon.png) no-repeat no-repeat;
     margin-top: 10rem;
-    margin-left: 24rem;
+    margin-left: 36rem;
 }
 
+#symptoms-heading{
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: -6rem;
+    margin-left: 46.5rem;
+}
 
 
 /* common conditions section */
