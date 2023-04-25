@@ -59,3 +59,11 @@ body{
 }
 
 
+/* home image */
+
+.mindscape-home-image{
+    height: 780px;
+    width: 100%;
+    background: url(../images/mindscape-home-image.png) no-repeat center center;
+    margin-top: -4.6rem;
+}
