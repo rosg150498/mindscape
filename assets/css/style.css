@@ -11,6 +11,10 @@ body{
 
 #mindscape-home-nav{
     background-color: #00B500;
+    display: flex;
+    justify-content: space-between;
+    height: 12vh;
+    width: 100%;
 }
 
 .logo{
@@ -18,11 +22,28 @@ body{
     background-repeat: no-repeat no-repeat;
     height: 4rem;
     width: 4rem;
+    margin-left: 2rem;
+    margin-top: 0.5rem;
 }
 
-.logo-text{
-    background-image: url(../images/logo-text.png);
-    background-repeat: no-repeat no-repeat;
-    height: 8rem;
-    width: 15rem;
+#mindscape-navigation-links{
+    margin-left: 32.6rem;
+    margin-top: -2rem;
+}
+
+#nav-links li{
+    font-family: 'Lato', sans-serif;
+    font-size: 14.2px;
+    float: left;
+    display: flex;
+    list-style: none;
+    text-transform: uppercase;
+    margin: 0.2rem 0.2rem 1.5rem 1.8rem;
+    margin-top: 0.2rem;
+    margin-bottom: 1.5rem;
+    margin-left: 1.2rem;
+}
+
+#nav-links li a{
+    color: #000000;
 }
