@@ -12,3 +12,10 @@ body{
 #mindscape-home-nav{
     background-color: #00B500;
 }
+
+.logo{
+    background-image: url(../images/logo.png);
+    background-repeat: no-repeat no-repeat;
+    height: 4rem;
+    width: 4rem;
+}
