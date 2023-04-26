@@ -120,6 +120,13 @@ body{
 
 /* symptoms section */
 
+#symptoms-bg{
+    background-color: #87ceeb;
+    width: 75%;
+    height: 10rem;
+    margin-left: 12rem;
+}
+
 .symptoms-logo{
     height: 150px;
     width: 150px;
