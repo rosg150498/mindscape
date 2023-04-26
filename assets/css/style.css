@@ -224,7 +224,7 @@ body{
     font-weight: bold;
     font-size: 40px;
     margin-top: -6rem;
-    margin-left: 35.2rem;
+    margin-left: 44rem;
     position: absolute;
 }
 
@@ -237,4 +237,13 @@ body{
     border: 2px solid #ccc;
     border-radius: 5px;
     box-shadow: 0 0 2rem #FFB347;
+}
+
+.common-conditions-logo{
+    height: 150px;
+    width: 150px;
+    background: url(../images/common-conditions-icon.png) no-repeat no-repeat;
+    margin-top: -9.4rem;
+    margin-left: 34.8rem;
+    position: absolute;
 }
