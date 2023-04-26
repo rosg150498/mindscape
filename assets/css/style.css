@@ -121,6 +121,10 @@ body{
 
 /* symptoms section */
 
+#symptoms{
+    padding-bottom: 20rem;
+}
+
 #symptoms-bg{
     background-color: #87ceeb;
     width: 75%;
@@ -150,55 +154,67 @@ body{
     position: absolute;
 }
 
-#symptoms-information{
+#symptoms-information {
+    width: 100%;
+    height: 500px;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr; 
-    grid-template-rows: 1fr 1fr; 
-    gap: 10px; 
+    grid-template-rows: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2px;
+    margin-left: 15rem;
+    margin-top: 6rem;
+    line-height: 2rem;
+  }
+
+.symptoms-behavioural{
+    margin-left: -1em;
 }
 
-#symptoms-info{
-    font-family: 'Open Sans', sans-serif;
-    font-size: 22px;
-    padding: 20px;
-    border-radius: 5px;
-    box-shadow: 10px rgba(0, 0, 0, 0.2);
-    margin-top: 10rem;
-    text-decoration: underline;
+.behaviours-symptoms{
+    position: absolute;
+    margin-top: 4rem;
+    margin-left: -1rem;
 }
 
+.symptoms-cognitive{
+    margin-left: -6.6rem;
+}
 
-#symptoms-info:nth-child(1) {
-    grid-column-start: 1;
-    grid-row-start: 1;
-    margin-left: 12rem;
-  }
-  
-  #symptoms-info:nth-child(2) {
-    grid-column-start: 2;
-    grid-row-start: 1;
-    margin-left: 8rem;
-  }
-  
-  #symptoms-info:nth-child(3) {
-    grid-column-start: 3;
-    grid-row-start: 1;
-    margin-left: -2rem;
-  }
-  
-  #symptoms-info:nth-child(4) {
-    grid-column-start: 1;
-    grid-row-start: 2; 
-    margin-left: 27.5rem;
-  }
-  
-  #symptoms-info:nth-child(5) {
-    grid-column-start: 2;
-    grid-row-start: 2;
-    margin-left: 28rem;
-  }
+.cognitive-symptoms{
+    position: absolute;
+    margin-top: 4rem;
+    margin-left: 25.2rem;
+}
 
+.emotional-symptoms{
+    position: absolute;
+    margin-top: 4rem;
+    margin-left: 58rem;
+}
+
+.symptoms-emotional{
+    margin-left: -5.4rem;
+}
+
+.symptoms-physical{
+    margin-top: 10.5rem;
+}
+
+.physical-symptoms{
+    position: absolute;
+    margin-top: 30rem;
+}
+
+.social-symptoms{
+    position: absolute;
+    margin-top: 30rem;
+    margin-left: 38rem;
+}
+
+.symptoms-social{
+    margin-top: 10.5rem;
+    margin-left: 6.2rem;
+}
 
 
 /* common conditions section */
-
