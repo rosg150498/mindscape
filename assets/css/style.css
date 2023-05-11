@@ -315,3 +315,9 @@ body{
     position: absolute;
 }
 
+#welcome-seeking-help-treatment{
+    font-size: 16.8px;
+    width: 75%;
+    margin-top: 5rem;
+    margin-left: 12rem;
+}
