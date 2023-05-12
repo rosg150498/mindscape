@@ -335,3 +335,30 @@ body{
     position: absolute;
 }
 
+.hotline-crisis-treatment-resources{
+    position: absolute;
+    margin-left: -2.8rem;
+}
+
+.therapy-counselling-treatment{
+    position: absolute;
+    margin-left: 34rem;
+}
+
+.medication-treatment{
+    position: absolute;
+    margin-left: 64rem;
+}
+
+.support-groups-treatment{
+    position: absolute;
+    margin-top: 24rem;
+    margin-left: 10rem;
+}
+
+.self-care-treatment{
+    position: absolute;
+    margin-top: 24rem;
+    margin-left: 50rem;
+}
+
