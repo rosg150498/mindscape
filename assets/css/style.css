@@ -353,17 +353,54 @@ body{
 
 .support-groups-treatment{
     position: absolute;
-    margin-top: 24rem;
+    margin-top: 64rem;
     margin-left: 10rem;
 }
 
 .self-care-treatment{
     position: absolute;
-    margin-top: 24rem;
+    margin-top: 64rem;
     margin-left: 50rem;
 }
 
 /* individual help and treatments content */
 
+.hotline-crisis-help-treatment{
+    width: 30%;
+    position: absolute;
+    margin-top: 4rem;
+    margin-left: -6rem;
+    line-height: 40px;
+}
+
+.therapy-counselling-help-treatment{
+    width: 30%;
+    position: absolute;
+    margin-top: 4rem;
+    margin-left: 26rem;
+    line-height: 40px;
+}
+
+.medication-help-treatment{
+    width: 20%;
+    position: absolute;
+    margin-top: 4rem;
+    margin-left: 58rem;
+}
+
+.support-groups-help-treatment{
+    width: 30%;
+    position: absolute;
+    margin-top: 70rem;
+    line-height: 40px;
+}
+
+.self-care-help-treatment{
+    width: 30%;
+    position: absolute;
+    margin-top: 70rem;
+    margin-left: 40rem;
+    line-height: 40px;
+}
 
 
