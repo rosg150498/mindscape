@@ -420,3 +420,11 @@ span{
     position: absolute;
 }
 
+.resources-support-logo{
+    height: 150px;
+    width: 150px;
+    background: url(../images/resources-support-icon.png) no-repeat no-repeat;
+    position: absolute;
+    margin-top: 130rem;
+    margin-left: 32rem;
+}
