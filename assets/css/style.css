@@ -415,9 +415,20 @@ span{
     font-family: 'Lato', sans-serif;
     font-weight: bold;
     font-size: 40px;
-    margin-top: 135rem;
+    margin-top: -5.8rem;
     margin-left: 44rem;
     position: absolute;
+}
+
+#resources-support-bg{
+    background-color: #87ceeb;
+    width: 75%;
+    height: 10rem;
+    margin-top: 130rem;
+    margin-left: 12rem;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 2rem #FFB347;
 }
 
 .resources-support-logo{
@@ -425,6 +436,6 @@ span{
     width: 150px;
     background: url(../images/resources-support-icon.png) no-repeat no-repeat;
     position: absolute;
-    margin-top: 130rem;
+    margin-top: -9.6rem;
     margin-left: 32rem;
 }
