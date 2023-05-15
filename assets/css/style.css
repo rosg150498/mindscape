@@ -439,3 +439,12 @@ span{
     margin-top: -9.6rem;
     margin-left: 32rem;
 }
+
+#welcome-resources-support{
+    font-size: 16.8px;
+    width: 75%;
+    position: absolute;
+    margin-top: 8rem;
+    margin-left: 12.4rem;
+    line-height: 2.8rem;
+}
