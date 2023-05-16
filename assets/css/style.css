@@ -220,6 +220,10 @@ body{
 
 /* common conditions section */
 
+#common-conditions{
+    padding-bottom: 20rem;
+}
+
 #common-conditions-heading{
     font-family: 'Lato', sans-serif;
     font-weight: bold;
@@ -286,6 +290,9 @@ body{
 
 /* seeking help and treatments section */
 
+#seeking-help-treatment{
+    padding-bottom: 20rem;
+}
 
 #seeking-help-treatment-heading{
     font-family: 'Lato', sans-serif;
@@ -300,7 +307,7 @@ body{
     background-color: #87ceeb;
     width: 75%;
     height: 10rem;
-    margin-top: 12rem;
+    margin-top: -6rem;
     margin-left: 12rem;
     border: 2px solid #ccc;
     border-radius: 5px;
@@ -411,11 +418,15 @@ span{
 
 /* resources and support section */
 
+#resources-support{
+    padding-bottom: 20rem;
+}
+
 #resources-support-heading{
     font-family: 'Lato', sans-serif;
     font-weight: bold;
     font-size: 40px;
-    margin-top: -5.8rem;
+    margin-top: -6rem;
     margin-left: 44rem;
     position: absolute;
 }
@@ -424,7 +435,7 @@ span{
     background-color: #87ceeb;
     width: 75%;
     height: 10rem;
-    margin-top: 130rem;
+    margin-top: 110rem;
     margin-left: 12rem;
     border: 2px solid #ccc;
     border-radius: 5px;
@@ -451,7 +462,7 @@ span{
 
 #individual-resources-support-information{
     width: 100%;
-    height: 500px;
+    height: 100px;
     display: grid;
     grid-template-rows: repeat(2, 1fr);
     grid-template-columns: repeat(3, 1fr);
@@ -513,3 +524,12 @@ span{
 }
 
 /* contact us section */
+
+#contact-us-heading{
+    font-family: 'Lato', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    position: absolute;
+    margin-top: 190rem;
+    margin-left: 44rem;
+}
