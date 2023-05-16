@@ -167,52 +167,52 @@ body{
     line-height: 2rem;
   }
 
-.symptoms-behavioural{
+#symptoms-behavioural{
     margin-left: -1em;
 }
 
-.behaviours-symptoms{
+#behaviours-symptoms{
     position: absolute;
     margin-top: 4rem;
     margin-left: -1rem;
 }
 
-.symptoms-cognitive{
+#symptoms-cognitive{
     margin-left: -6.6rem;
 }
 
-.cognitive-symptoms{
+#cognitive-symptoms{
     position: absolute;
     margin-top: 4rem;
     margin-left: 25.2rem;
 }
 
-.emotional-symptoms{
+#emotional-symptoms{
     position: absolute;
     margin-top: 4rem;
     margin-left: 58rem;
 }
 
-.symptoms-emotional{
+#symptoms-emotional{
     margin-left: -5.4rem;
 }
 
-.symptoms-physical{
+#symptoms-physical{
     margin-top: 10.5rem;
 }
 
-.physical-symptoms{
+#physical-symptoms{
     position: absolute;
     margin-top: 30rem;
 }
 
-.social-symptoms{
+#social-symptoms{
     position: absolute;
     margin-top: 30rem;
     margin-left: 38rem;
 }
 
-.symptoms-social{
+#symptoms-social{
     margin-top: 10.5rem;
     margin-left: 6.2rem;
 }
@@ -261,30 +261,30 @@ body{
     line-height: 2rem;
   }
 
-  .anxiety-disorders-conditions{
+#anxiety-disorders-conditions{
     position: absolute;
     margin-top: 3.6rem;
   }
 
-  .mood-disorders-conditions{
+#mood-disorders-conditions{
     position: absolute;
     margin-left: 48rem;
     margin-top: 3.6rem;
   }
 
-  .eating-disorders-conditions{
+#eating-disorders-conditions{
     position: absolute;
     margin-top: 19.4rem;
   }
 
-  .trauma-stress-disorders-conditions{
+#trauma-stress-disorders-conditions{
     position: absolute;
     margin-top: 19.4rem;
     margin-left: 48.2rem;
   }
 
 
-  /* seeking help and treatments section */
+/* seeking help and treatments section */
 
 
 #seeking-help-treatment-heading{
@@ -336,28 +336,28 @@ body{
     position: absolute;
 }
 
-.hotline-crisis-treatment-resources{
+#hotline-crisis-treatment-resources{
     position: absolute;
     margin-left: -6rem;
 }
 
-.therapy-counselling-treatment{
+#therapy-counselling-treatment{
     position: absolute;
     margin-left: 26rem;
 }
 
-.medication-treatment{
+#medication-treatment{
     position: absolute;
     margin-left: 54.8rem;
 }
 
-.support-groups-treatment{
+#support-groups-treatment{
     position: absolute;
     margin-top: 90rem;
     margin-left: -4rem;
 }
 
-.self-care-treatment{
+#self-care-treatment{
     position: absolute;
     margin-top: 90rem;
     margin-left: 40rem;
@@ -365,7 +365,7 @@ body{
 
 /* individual help and treatments content */
 
-.hotline-crisis-help-treatment{
+#hotline-crisis-help-treatment{
     width: 20%;
     position: absolute;
     margin-top: 4rem;
@@ -373,7 +373,7 @@ body{
     line-height: 40px;
 }
 
-.therapy-counselling-help-treatment{
+#therapy-counselling-help-treatment{
     width: 20%;
     position: absolute;
     margin-top: 4rem;
@@ -381,7 +381,7 @@ body{
     line-height: 40px;
 }
 
-.medication-help-treatment{
+#medication-help-treatment{
     width: 20%;
     position: absolute;
     margin-top: 4rem;
@@ -389,7 +389,7 @@ body{
     line-height: 34px;
 }
 
-.support-groups-help-treatment{
+#support-groups-help-treatment{
     width: 25%;
     position: absolute;
     margin-top: 96rem;
@@ -397,7 +397,7 @@ body{
     line-height: 40px;
 }
 
-.self-care-help-treatment{
+#self-care-help-treatment{
     width: 25%;
     position: absolute;
     margin-top: 96rem;
