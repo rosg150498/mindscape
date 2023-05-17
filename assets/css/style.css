@@ -530,6 +530,10 @@ span{
 
 /* contact us section */
 
+#contact-us{
+    background-color: #E6E6E6;
+}
+
 #contact-us-heading{
     font-family: 'Lato', sans-serif;
     font-size: 40px;
@@ -540,6 +544,39 @@ span{
 }
 
 #contact-us-form{
+    display: flex;
+    flex-direction: column;
     position: absolute;
-    margin-top: 206rem;
+    margin-top: 198rem;
+    margin-left: 44rem;
 }
+
+#contact-us-form label {
+  margin-bottom: 0.5rem;
+  line-height: 3.5rem;
+}
+
+#contact-us-form input {
+  width: 100%;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+#subject{
+    padding: 6rem;
+}
+
+#message {
+    width: 72%;
+    padding: 3.2em;
+}
+
+#contact-us-form input[type="submit"] {
+  width: auto;
+  padding: 0.5rem 1rem;
+  margin-top: 2.4rem;
+}
+
+
+
+
