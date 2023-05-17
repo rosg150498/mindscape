@@ -539,6 +539,18 @@ span{
     margin-left: 44rem;
 }
 
+#contact-us-bg{
+    background-color: #87ceeb;
+    width: 75%;
+    height: 10rem;
+    position: absolute;
+    margin-top: 186rem;
+    margin-left: 12rem;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 2rem #FFB347;
+}
+
 .contact-us-logo{
     height: 150px;
     width: 150px;
