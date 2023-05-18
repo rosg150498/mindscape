@@ -59,10 +59,7 @@ body{
     display: flex;
     list-style: none;
     text-transform: uppercase;
-    margin: 0.2rem 0.2rem 1.5rem 1.8rem;
-    margin-top: 0.2rem;
-    margin-bottom: 1.5rem;
-    margin-left: 1.2rem;
+    margin: 1rem;
 }
 
 #nav-links li a{
