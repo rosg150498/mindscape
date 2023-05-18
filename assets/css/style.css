@@ -23,8 +23,6 @@ body{
 }
 
 .logo{
-    background-image: url(../images/logo.png);
-    background-repeat: no-repeat no-repeat;
     height: 4rem;
     width: 4rem;
     margin-left: 2.8rem;
