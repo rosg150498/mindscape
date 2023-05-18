@@ -65,6 +65,9 @@ body{
 #nav-links li a{
     color: #000000;
     font-weight: bold;
+    cursor: pointer;
+    transition: 0.8s ease;
+
 }
 
 #nav-links li a:hover{
