@@ -89,18 +89,20 @@ body{
 #home-welcoming-text{
     font-family: 'Lato', sans-serif;
     font-weight: bold;
-    font-size: 44px;
-    margin-top: -4rem;
-    margin-left: 20rem;
+    font-size: 35px;
+    margin-top: -5rem;
+    text-align: center;
+    padding: 10px;
 }
 
 /* about us section */
 
 #about-us{
-    position: relative;
-    margin: 0 auto;
-    height: 580px;
-    width: auto;
+    display: flex;
+    margin-top: 2rem;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
 }
 
 #about-us-bg{
@@ -108,15 +110,16 @@ body{
     width: 80%;
     height: 100%;
     box-shadow: 0 0 2rem #FFB347;
-    margin-left: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 .about-us-logo{
     height: 150px;
     width: 150px;
-    background: url(../images/about-us-icon.png) no-repeat no-repeat;
-    margin-top: 10rem;
-    margin-left: 24rem;
+    background: url(../images/about-us-icon.png) no-repeat center;
 }
 
 #about-us-heading{
