@@ -120,6 +120,7 @@ body{
     height: 150px;
     width: 150px;
     background: url(../images/about-us-icon.png) no-repeat center;
+    margin-bottom: 2rem;
 }
 
 #about-us-heading{
