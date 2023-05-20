@@ -375,6 +375,13 @@ span{
     padding: 20px;
 }
 
+.resources-support-wrapper{
+    background: #eee;
+    padding: 20px;
+    line-height: 2.5;
+    border-radius: 5px;
+}
+
 /* contact us section */
 
 #contact-us-heading{
