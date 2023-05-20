@@ -240,61 +240,12 @@ body{
 }
 
 #common-conditions-information {
-    width: auto;
-    height: 500px;
     display: grid;
-    grid-template-rows: repeat(2, 1fr);
     grid-template-columns: repeat(2, 1fr);
-    gap: 2px;
-    margin-left: 2rem;
-    margin-top: 6rem;
-    line-height: 2rem;
-    box-sizing: border-box;
-  }
-
-#anxiety-disorders{
-    margin-left: 15rem;
-}
-
-#anxiety-disorders-conditions{
-    position: absolute;
-    margin-top: 3.6rem;
-    margin-left: 15rem;
-}
-
-#mood-disorders{
-    position: absolute;
-    margin-left: 60rem;
-}
-
-#mood-disorders-conditions{
-    position: absolute;
-    margin-left: 60rem;
-    margin-top: 3.6rem;
-  }
-
-#eating-disorders{
-    position: absolute;
-    margin-top: 15.2rem;
-    margin-left: 15rem;
-}  
-
-#eating-disorders-conditions{
-    position: absolute;
-    margin-top: 19.4rem;
-    margin-left: 15rem;
-}
-
-#trauma-stress-disorders{
-    position: absolute;
-    margin-top: 15.2rem;
-    margin-left: 60rem;
-}
-
-#trauma-stress-disorders-conditions{
-    position: absolute;
-    margin-top: 19.4rem;
-    margin-left: 60rem;
+    gap: 20px;
+    margin-top: 2rem;
+    line-height: 2;
+    padding: 20px;
   }
 
 
