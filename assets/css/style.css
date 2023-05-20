@@ -483,4 +483,16 @@ footer {
     height: 30vh;
 }
 
+#back-to-top{
+    position: relative;
+    border: 2px solid #fff;
+    background-color: #FFB347;
+    color: #FFFFFF;
+    cursor: pointer;
+    padding: 20px;
+    border-radius: 18px;
+    font-size: 18px;
+    margin-top: 7rem;
+    margin-left: 38.8rem;
+}
 
