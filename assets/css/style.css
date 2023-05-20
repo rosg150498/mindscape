@@ -458,9 +458,10 @@ span{
 }
 
 #contact-us-form input[type="submit"] {
-  width: auto;
-  padding: 0.5rem 1rem;
   margin-top: 2.4rem;
+  color: #fff;
+  cursor: pointer;
+  transition: 0.6s ease;
 }
 
 #submit-message{
