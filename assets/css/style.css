@@ -224,6 +224,10 @@ body{
 
 }
 
+.common-conditions-wrapper > h3{
+    font-size: 25px;
+}
+
 .common-conditions-logo{
     height: 150px;
     width: 150px;
