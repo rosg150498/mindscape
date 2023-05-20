@@ -180,57 +180,6 @@ body{
     padding: 20px;
   }
 
-#symptoms-behavioural{
-    margin-left: 6em;
-}
-
-#behaviours-symptoms{
-    position: absolute;
-    margin-top: 4rem;
-    margin-left: 8rem;
-}
-
-#symptoms-cognitive{
-    margin-left: 2.8rem;
-}
-
-#cognitive-symptoms{
-    position: absolute;
-    margin-top: 4rem;
-    margin-left: 34rem;
-}
-
-#emotional-symptoms{
-    position: absolute;
-    margin-top: 4rem;
-    margin-left: 64.6rem;
-}
-
-#symptoms-emotional{
-    margin-left: 2em;
-}
-
-#symptoms-physical{
-    margin-top: 10.5rem;
-    margin-left: 10rem;
-}
-
-#physical-symptoms{
-    position: absolute;
-    margin-top: 30rem;
-    margin-left: 10rem;
-}
-
-#social-symptoms{
-    position: absolute;
-    margin-top: 30rem;
-    margin-left: 52rem;
-}
-
-#symptoms-social{
-    margin-top: 10.5rem;
-    margin-left: 21rem;
-}
 
 
 /* common conditions section */
