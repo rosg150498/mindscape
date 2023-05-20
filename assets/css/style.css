@@ -422,9 +422,9 @@ span{
 #contact-us-form{
     display: flex;
     flex-direction: column;
-    position: absolute;
-    margin-top: 174rem;
-    margin-left: 44rem;
+    justify-content: center;
+    align-items: center;
+    margin-top: 4rem;
 }
 
 #contact-us-form label {
