@@ -228,6 +228,11 @@ body{
     font-size: 25px;
 }
 
+.common-conditions-wrapper > ul{
+    font-size: 18px;
+    list-style-type: none;
+}
+
 .common-conditions-logo{
     height: 150px;
     width: 150px;
