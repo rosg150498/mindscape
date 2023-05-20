@@ -307,6 +307,12 @@ body{
     list-style-type: none;
 }
 
+.seeking-help-treatment-wrapper{
+    background: #eee;
+    padding: 20px;
+    border-radius: 5px;
+}
+
 #welcome-seeking-help-treatment{
     font-size: 16.8px;
     width: 75%;
