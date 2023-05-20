@@ -314,12 +314,12 @@ body{
 }
 
 #welcome-seeking-help-treatment{
-    font-size: 16.8px;
-    width: 75%;
-    margin-top: -21rem;
-    margin-left: 10.2rem;
-    line-height: 2.8rem;
-    position: absolute;
+    font-size: 18px;
+    width: 100%;
+    line-height: 2;
+    padding: 20px;
+    font-weight: 600;
+    margin-left: 2.5rem;
 }
 
 span{
