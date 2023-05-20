@@ -483,8 +483,8 @@ footer {
     height: 30vh;
 }
 
-#back-to-top{
-    position: relative;
+.back-to-top{
+    position: absolute;
     border: 2px solid #fff;
     background-color: #FFB347;
     color: #FFFFFF;
