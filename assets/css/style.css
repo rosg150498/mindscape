@@ -295,6 +295,14 @@ body{
     flex-direction: column;
 }
 
+.seeking-help-treatment-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    line-height: 2;
+    gap: 20px;
+    padding: 20px;
+}
+
 #welcome-seeking-help-treatment{
     font-size: 16.8px;
     width: 75%;
