@@ -162,10 +162,7 @@ body{
 .symptoms-logo{
     height: 150px;
     width: 150px;
-    background: url(../images/symptoms-icon.png) no-repeat no-repeat;
-    margin-top: 1.4rem;
-    margin-left: 24.5rem;
-    position: absolute;
+    background: url(../images/symptoms-icon.png) no-repeat center;
 }
 
 #symptoms-heading{
