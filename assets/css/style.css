@@ -251,11 +251,6 @@ body{
 
 /* seeking help and treatments section */
 
-#seeking-help-treatment{
-    width: auto;
-    padding-bottom: 20rem;
-}
-
 #seeking-help-treatment-heading{
     font-family: 'Lato', sans-serif;
     font-weight: bold;
