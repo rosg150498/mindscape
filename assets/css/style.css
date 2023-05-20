@@ -206,11 +206,13 @@ body{
 }
 
 #common-conditions-bg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: #87ceeb;
-    width: 75%;
+    width: 100%;
     height: 10rem;
     margin-top: 12rem;
-    margin-left: 12rem;
     border: 2px solid #ccc;
     border-radius: 5px;
     box-shadow: 0 0 2rem #FFB347;
