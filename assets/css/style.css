@@ -464,15 +464,15 @@ span{
   transition: 0.6s ease;
 }
 
+#contact-us-form input[type='submit']:hover {
+    color: #FFB347;
+}
+
 #submit-message{
     background-color: #00B500;
     font-family: 'Open Sans', sans-serif;
     font-size: 18px;
     font-weight: bold;
-}
-
-#submit-message:hover{
-    color: #FFB347;
 }
 
 footer {
