@@ -217,6 +217,13 @@ body{
     box-shadow: 0 0 2rem #FFB347;
 }
 
+.common-conditions-wrapper{
+    line-height: 2.5;
+    padding: 20px;
+    background: #eee;
+
+}
+
 .common-conditions-logo{
     height: 150px;
     width: 150px;
