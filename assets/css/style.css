@@ -178,7 +178,13 @@ body{
     margin-top: 2rem;
     justify-content: center;
     padding: 20px;
-  }
+}
+
+.symptoms-wrapper{
+    line-height: 2.5;
+    padding: 20px;
+    background: #eee;
+}
 
 
 
