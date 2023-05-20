@@ -303,6 +303,10 @@ body{
     padding: 20px;
 }
 
+.seeking-help-treatment-container ul {
+    list-style-type: none;
+}
+
 #welcome-seeking-help-treatment{
     font-size: 16.8px;
     width: 75%;
