@@ -222,9 +222,6 @@ body{
     height: 150px;
     width: 150px;
     background: url(../images/common-conditions-icon.png) no-repeat no-repeat;
-    margin-top: -9.4rem;
-    margin-left: 34.8rem;
-    position: absolute;
 }
 
 #common-conditions-information {
