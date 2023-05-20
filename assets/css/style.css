@@ -190,6 +190,11 @@ body{
     font-size: 25px;
 }
 
+.symptoms-wrapper > ul{
+    font-size: 18px;
+    list-style: none;
+}
+
 /* common conditions section */
 
 #common-conditions{
