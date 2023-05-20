@@ -186,7 +186,9 @@ body{
     background: #eee;
 }
 
-
+.symptoms-wrapper > h3 {
+    font-size: 25px;
+}
 
 /* common conditions section */
 
