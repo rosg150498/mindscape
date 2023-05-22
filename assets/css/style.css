@@ -17,7 +17,7 @@ body{
     background-color: #00B500;
     display: flex;
     justify-content: space-between;
-    height: 12vh;
+    height: 20vh;
     width: auto;
 }
 
@@ -29,7 +29,9 @@ body{
 
 .logo{
     display: flex;
-
+    height: 15px;
+    width: 15px;
+    margin-top: 1.6rem;
 }
 
 .logo > img{
@@ -497,4 +499,80 @@ footer {
     margin-left: 38.8rem;
 }
 
+
+/* MOBILE : max-width: 479px */
+@media only screen and (min-width:0px) and (max-width:479px){
+
+    #mindscape-home-nav{
+        width: 100%;
+    }
+
+    .responsive-navigation{
+        display: block;
+    }
+
+
+    #nav-links{
+        display: none;
+    }
+
+
+    #logo-text {
+        line-height: 1;
+    }
+
+
+    #nav-links{
+        line-height: 1.8;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        background: #01311a;
+    }
+
+
+    #nav-links li{
+        margin: 0.5rem 0;
+        width: 100%;
+        text-align: center;
+    }
+
+    
+    #nav-links li a{
+        width: 100%;
+        text-align: center;
+    }
+
+
+    #logo-text{
+        margin:20px;
+    }
+
+
+    .navigation-bar{
+        height: auto;
+    }
+
+
+    .logo i{
+        margin: 10px;
+    }
+
+
+    i.fa-bars{
+        margin-left: -20rem;
+    }
+
+
+    #mindscape-navigation-links:hover #nav-links{
+        display: block !important;
+    }
+
+    .mindscape-home-image{
+        height: 250px;
+        width: 250px;
+    }
+
+}
 
