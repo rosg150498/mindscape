@@ -506,3 +506,19 @@ footer {
 }
 
 
+/* SMALL DEVICES */
+@media only screen and (min-width: 479px) {
+
+#responsive-logo{
+    position: absolute;
+    margin-top: -2.8rem;
+    margin-left: -1.6rem;
+}
+
+.logo-text{
+    position: absolute;
+    margin-left: 6rem;
+}
+    
+}
+    
