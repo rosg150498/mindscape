@@ -507,7 +507,7 @@ footer {
 
 
 /* SMALL DEVICES */
-@media only screen and (min-width: 479px) {
+@media only screen and (min-width:0px) and (max-width:479px) {
 
 #responsive-logo{
     position: absolute;
@@ -519,6 +519,17 @@ footer {
     position: absolute;
     margin-left: 6rem;
 }
-    
+
+.responsive-navigation{
+    display: block;
+    margin: 10rem;
+    margin-top: 4rem;
+    margin-left: -6rem;
+}
+
+#nav-links{
+    display: none;
+}
+
 }
     
