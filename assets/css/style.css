@@ -617,10 +617,6 @@ footer {
     gap: 2rem;
 }
 
-#seeking-help-treatment-bg{
-    height: 16rem;
-}
-
 .seeking-help-treatment-logo{
     display: none;
 }
@@ -629,14 +625,14 @@ footer {
     display: block !important;
     background: url(../images/seeking-help-treatment-icon-mobile-device.png);
     position: absolute;
-    margin-top: -16rem;
+    margin-top: -10.7rem;
     margin-left: 11.5rem;
 }
 
 #seeking-help-treatment-heading{
     font-size: 25px;
     position: absolute;
-    margin-top: -7.4rem;
+    margin-top: -3.4rem;
     margin-left: 6.5rem;
 }
 
