@@ -578,14 +578,20 @@ footer {
 }
 
 .symptoms-logo{
+    display: none;
+}
+
+#symptoms-logo-responsive{
+    display: block !important;
+    background: url(../images/symptoms-icon-mobile-device.png) no-repeat center center;
     position: absolute;
-    margin-top: -4rem;
+    margin-top: -2.2rem;
 }
 
 #symptoms-heading{
-    font-size: 25px;
     position: absolute;
-    margin-top: 8.5rem;
+    margin-top: 7.2rem;
+    margin-left: -1rem;
 }
 
 #symptoms-information{
