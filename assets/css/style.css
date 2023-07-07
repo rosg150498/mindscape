@@ -605,14 +605,14 @@ footer {
     background: url(../images/common-conditions-icon-mobile-device.png) no-repeat center center;
     position: absolute;
     margin-left: 10rem;
-    margin-top: -10rem;
+    margin-top: -11rem;
 }
 
 #common-conditions-heading{
     font-size: 25px;
     position: absolute;
     margin-left: 8rem;
-    margin-top: -2rem;
+    margin-top: -3rem;
 }
 
 #common-conditions-information{
