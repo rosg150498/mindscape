@@ -670,4 +670,10 @@ footer {
     gap: 2rem;
 }
 
+#contact-us-heading{
+    position: absolute;
+    margin-top: -4.4rem;
+    margin-left: 9rem;
+}
+
 }
