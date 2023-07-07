@@ -676,4 +676,16 @@ footer {
     margin-left: 9rem;
 }
 
+.contact-us-logo{
+    display: none;
+}
+
+#contact-us-logo-responsive{
+    display: block !important;
+    background: url(../images/contact-us-icon-mobile-device.png) no-repeat center center;
+    position: absolute;
+    margin-top: -4rem;
+    margin-left: 9rem;
+}
+
 }
