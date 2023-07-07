@@ -670,9 +670,13 @@ footer {
     gap: 2rem;
 }
 
+#contact-us-bg{
+    height: 10.4rem;
+}
+
 #contact-us-heading{
     position: absolute;
-    margin-top: -4.4rem;
+    margin-top: -4rem;
     margin-left: 9rem;
 }
 
@@ -684,8 +688,8 @@ footer {
     display: block !important;
     background: url(../images/contact-us-icon-mobile-device.png) no-repeat center center;
     position: absolute;
-    margin-top: -4rem;
-    margin-left: 9rem;
+    margin-top: -11.6rem;
+    margin-left: 10rem;
 }
 
 }
