@@ -607,9 +607,10 @@ footer {
 }
 
 #common-conditions-heading{
+    font-size: 25px;
     position: absolute;
-    margin-left: 4rem;
-    margin-top: -5rem;
+    margin-left: 8rem;
+    margin-top: -4rem;
 }
 
 #common-conditions-information{
