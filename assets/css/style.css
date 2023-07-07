@@ -597,6 +597,12 @@ footer {
 }
 
 .common-conditions-logo{
+    display: none;
+}
+
+#common-conditions-logo-responsive{
+    display: block !important;
+    background: url(../images/common-conditions-icon-mobile-device.png) no-repeat center center;
     position: absolute;
     margin-left: 10rem;
     margin-top: -10rem;
