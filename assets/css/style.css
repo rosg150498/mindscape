@@ -643,4 +643,16 @@ footer {
     gap: 2rem;
 }
 
+.resources-support-logo{
+    position: absolute;
+    margin-top: -13rem;
+    margin-left: 11.5rem;
+}
+
+#resources-support-heading{
+    position: absolute;
+    margin-top: -4.4rem;
+    margin-left: 2rem;
+}
+
 }
