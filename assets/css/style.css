@@ -596,4 +596,25 @@ footer {
     gap: 2rem;
 }
 
+#common-conditions-bg{
+    height: 14rem;
+}
+
+.common-conditions-logo{
+    position: absolute;
+    margin-left: 10rem;
+    margin-top: -13rem;
+}
+
+#common-conditions-heading{
+    position: absolute;
+    margin-left: 4rem;
+    margin-top: -5rem;
+}
+
+#common-conditions-information{
+    grid-template-columns: repeat(1, 1fr);
+    gap: 2rem;
+}
+
 }
