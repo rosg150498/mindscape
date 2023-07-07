@@ -599,14 +599,14 @@ footer {
 .common-conditions-logo{
     position: absolute;
     margin-left: 10rem;
-    margin-top: -13rem;
+    margin-top: -10rem;
 }
 
 #common-conditions-heading{
     font-size: 25px;
     position: absolute;
     margin-left: 8rem;
-    margin-top: -4rem;
+    margin-top: -2rem;
 }
 
 #common-conditions-information{
