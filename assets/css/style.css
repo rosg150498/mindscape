@@ -577,4 +577,19 @@ footer {
     margin-top: -14rem;
 }
 
+#symptoms-bg{
+    height: 14rem;
+}
+
+.symptoms-logo{
+    position: absolute;
+    margin-top: -4rem;
+}
+
+#symptoms-heading{
+    position: absolute;
+    margin-top: 8.5rem;
+}
+
+
 }
