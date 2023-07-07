@@ -622,7 +622,13 @@ footer {
 }
 
 .seeking-help-treatment-logo{
-    position: absolute; 
+    display: none;
+}
+
+#seeking-help-treatment-logo-responsive{
+    display: block !important;
+    background: url(../images/seeking-help-treatment-icon-mobile-device.png);
+    position: absolute;
     margin-top: -16rem;
     margin-left: 11.5rem;
 }
