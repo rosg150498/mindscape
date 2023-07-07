@@ -560,4 +560,16 @@ footer {
     display: block !important;
 }
 
+.mindscape-home-image{
+    display: none !important;
+}
+
+#home-image-responsive{
+    display: block !important;
+    height: 780px;
+    width: auto;
+    background: url(../images/mindscape-home-image-mobile.png) no-repeat center center;
+    margin-top: -14rem;
+}
+
 }
