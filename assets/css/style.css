@@ -692,4 +692,14 @@ footer {
     margin-left: 10rem;
 }
 
+footer{
+    height: 100px;
+}
+
+.back-to-top{
+    position: absolute;
+    margin-top: 2rem;
+    margin-left: 5.7rem;
+}
+
 }
