@@ -617,4 +617,15 @@ footer {
     gap: 2rem;
 }
 
+.seeking-help-treatment-logo{
+    position: absolute; 
+    margin-left: 11.5rem;
+}
+
+#seeking-help-treatment-heading{
+    position: absolute;
+    margin-top: -1.5rem;
+    margin-left: 6.5rem;
+}
+
 }
