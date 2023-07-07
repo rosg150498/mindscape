@@ -532,5 +532,32 @@ footer {
     display: none;
 }
 
+#nav-links{
+    line-height: 1.8;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: #00B500;
 }
-    
+
+#nav-links li{
+    margin: 0.5rem 0;
+    width: 100%;
+    text-align: center;
+}
+
+#nav-links li a{
+    width: 100%;
+    text-align: center;
+}
+
+.navigation-bar{
+    height: auto;
+}
+
+#mindscape-navigation-links:hover #nav-links{
+    display: block !important;
+}
+
+}
