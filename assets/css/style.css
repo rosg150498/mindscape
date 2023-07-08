@@ -771,7 +771,10 @@ footer{
     display: block !important;
 }
 
-
+.mindscape-home-image{
+    display: block !important;
+    background: url(../images/mindscape-home-image-responsive-tablet.png) no-repeat center center;
+}
 
 
 
