@@ -697,9 +697,10 @@ footer {
 }
 
 #contact-us-heading{
+    font-size: 25px;
     position: absolute;
-    margin-top: -4rem;
-    margin-left: 9rem;
+    margin-top: -3.3rem;
+    margin-left: 11rem;
 }
 
 .contact-us-logo{
