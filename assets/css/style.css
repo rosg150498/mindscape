@@ -675,9 +675,10 @@ footer {
 }
 
 #resources-support-heading{
+    font-size: 25px;
     position: absolute;
-    margin-top: -4.4rem;
-    margin-left: 2rem;
+    margin-top: -3.7rem;
+    margin-left: 7rem;
 }
 
 #welcome-resources-support{
