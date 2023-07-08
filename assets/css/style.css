@@ -796,6 +796,11 @@ footer{
     gap: 2rem;
 }
 
+.seeking-help-treatment-logo{
+    position: absolute;
+    margin-left: 6.4rem;
+}
+
 .seeking-help-treatment-container{
     grid-template-columns: repeat(1, 1fr);
     gap: 2rem;
