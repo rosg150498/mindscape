@@ -846,5 +846,10 @@ footer{
     margin-left: 18.2rem;
 }
 
+.back-to-top{
+    position: absolute;
+    margin-left: 15rem;
+}
+
 
 }
