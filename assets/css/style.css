@@ -820,6 +820,11 @@ footer{
     margin-left: 6.4rem;
 }
 
+#resources-support-heading{
+    position: absolute;
+    margin-left: 16.2rem;
+}
+
 #individual-resources-support-information{
     grid-template-columns: repeat(1, 1fr);
     gap: 2rem;
