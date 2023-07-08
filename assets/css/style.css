@@ -577,6 +577,17 @@ footer {
     margin-top: -14rem;
 }
 
+#about-us-heading{
+    font-size: 25px;
+}
+
+.about-us-info{
+    font-size: 18px;
+    margin: 10px;
+    width: 90%;
+    line-height: 2;
+}
+
 .symptoms-logo{
     display: none;
 }
