@@ -781,6 +781,16 @@ footer{
     gap: 2rem;
 }
 
+.common-conditions-logo{
+    position: absolute;
+    margin-left: 6.4rem;
+}
+
+#common-conditions-heading{
+    position: absolute;
+    margin-left: 16rem;
+}
+
 #common-conditions-information{
     grid-template-columns: repeat(1, 1fr);
     gap: 2rem;
