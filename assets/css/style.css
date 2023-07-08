@@ -776,6 +776,26 @@ footer{
     background: url(../images/mindscape-home-image-responsive-tablet.png) no-repeat center center;
 }
 
+#symptoms-information{
+    grid-template-columns: repeat(1, 1fr);
+    gap: 2rem;
+}
+
+#common-conditions-information{
+    grid-template-columns: repeat(1, 1fr);
+    gap: 2rem;
+}
+
+.seeking-help-treatment-container{
+    grid-template-columns: repeat(1, 1fr);
+    gap: 2rem;
+}
+
+#individual-resources-support-information{
+    grid-template-columns: repeat(1, 1fr);
+    gap: 2rem;
+}
+
 
 
 
