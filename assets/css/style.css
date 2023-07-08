@@ -736,6 +736,10 @@ footer{
     margin-left: -1.5rem;
 }
 
+.logo-text{
+    margin-top: -3.4rem;
+}
+
 .responsive-navigation{
     display: block;
     margin: 10rem;
