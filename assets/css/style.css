@@ -728,6 +728,118 @@ footer{
 }
 
 
+/* SMALL DEVICES */
+@media only screen and (min-width:0px) and (max-width: 548px) {
+
+
+    #responsive-logo{
+        position: absolute;
+        margin-top: -1.8rem;
+        margin-left: -1.6rem;
+    }
+    
+    .logo-text{
+        position: absolute;
+        margin-top: -1.2rem !important;
+        margin-left: 6rem;
+    }
+    
+    .responsive-navigation{
+        filter: none !important;
+        display: block !important;
+        margin-top: 6rem !important;
+        margin-left: -3.2rem !important;
+        font-size: 35px !important;
+        z-index: 100;
+    }
+    
+    #nav-links{
+        display: none;
+    }
+    
+    #nav-links{
+        top: 0;
+        left: 0;
+        width: 100%;
+        background: #00B500;
+        z-index: 50;
+    }
+    
+    #nav-links li{
+        margin: 0.5rem 0;
+        width: 100%;
+        text-align: center;
+    }
+    
+    #nav-links li a{
+        width: 100%;
+        text-align: center;
+    }
+    
+    .navigation-bar{
+        height: auto;
+    }
+    
+    #mindscape-navigation-links:hover #nav-links{
+        display: block !important;
+    }    
+
+    .mindscape-home-image{
+        scale: 0.8;
+        margin-top: -10.5rem;
+        width: 100%;
+    }
+
+    #home-welcoming-text{
+        margin-top: -11rem !important;
+    }
+
+    #common-conditions-heading{
+        margin-top: -8rem;
+    }
+    
+    #common-conditions-information {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    
+    #seeking-help-treatment-heading {
+        margin-top: -7.6rem;
+    }
+
+    .resources-support-logo{
+        margin-left: 3.4rem !important;
+    }
+
+    #resources-support-heading{
+        margin-top: -7.6rem;
+        margin-left: 13.8rem !important;
+    }
+
+    #mindscape-home-nav {
+      height: 15vh;
+    }
+
+    .contact-us-logo{
+        position: absolute;
+        margin-left: 5rem !important;  
+    }
+
+    #contact-us-heading{
+        margin-left: 14.6rem !important;
+    }
+
+    footer{
+        height: 120px;
+    }
+
+    .back-to-top{
+        margin-top: 2rem;
+        margin-left: 8rem !important;
+    }
+
+  }  
+
+
 /* TABLET : max-width: 768px */
 @media only screen and (min-width:0px) and (max-width:768px){
 
