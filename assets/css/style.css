@@ -520,11 +520,11 @@ footer {
     margin-left: 6rem;
 }
 
-.responsive-navigation{
+#small-mobile-device-hamburger{
     display: block;
     margin: 10rem;
     margin-top: 4rem;
-    margin-left: -6rem;
+    margin-left: -7rem !important;
     font-size: 35px;
 }
 
