@@ -711,9 +711,9 @@ footer {
 #contact-us-logo-responsive{
     display: block !important;
     background: url(../images/contact-us-icon-mobile-device.png) no-repeat center center;
-    position: absolute;
-    margin-top: -11.6rem;
-    margin-left: 10rem;
+    position: absolute !important;
+    margin-top: -11.6rem !important;
+    margin-left: 10rem !important;
 }
 
 footer{
