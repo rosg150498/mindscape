@@ -574,8 +574,8 @@ footer {
 }
 
 #home-welcoming-text{
-    position: absolute;
-    margin-top: -14rem;
+    position: absolute !important;
+    margin-top: -14rem !important;
 }
 
 #about-us-heading{
@@ -626,9 +626,9 @@ footer {
 
 #common-conditions-heading{
     font-size: 25px;
-    position: absolute;
-    margin-left: 8rem;
-    margin-top: -3rem;
+    position: absolute !important;
+    margin-left: 8rem !important;
+    margin-top: -3rem !important;
 }
 
 #common-conditions-information{
