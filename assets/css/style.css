@@ -650,9 +650,9 @@ footer {
 
 #seeking-help-treatment-heading{
     font-size: 25px;
-    position: absolute;
-    margin-top: -3.4rem;
-    margin-left: 6.5rem;
+    position: absolute !important;
+    margin-top: -3.4rem !important;
+    margin-left: 6.5rem !important;
 }
 
 #welcome-seeking-help-treatment{
