@@ -676,10 +676,10 @@ footer {
 }
 
 .resources-support-heading-mobile{
-    font-size: 25px;
-    position: absolute;
-    margin-top: -3.7rem;
-    margin-left: 7rem;
+    font-size: 25px !important;
+    position: absolute !important;
+    margin-top: -3.7rem !important;
+    margin-left: 7rem !important;
 }
 
 #welcome-resources-support{
@@ -699,9 +699,9 @@ footer {
 
 #contact-us-heading{
     font-size: 25px;
-    position: absolute;
-    margin-top: -3.3rem;
-    margin-left: 11rem;
+    position: absolute !important;
+    margin-top: -3.3rem !important;
+    margin-left: 11rem !important;
 }
 
 .contact-us-logo{
@@ -813,7 +813,7 @@ footer{
 
     #resources-support-heading{
         margin-top: -7.6rem;
-        margin-left: 13.8rem !important;
+        margin-left: 13.8rem;
     }
 
     #mindscape-home-nav {
