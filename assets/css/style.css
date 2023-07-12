@@ -669,10 +669,10 @@ footer {
     height: 14rem;
 }
 
-.resources-support-logo{
-    position: absolute;
-    margin-top: -13rem;
-    margin-left: 11.5rem;
+#resources-support-logo-mobile{
+    position: absolute !important;
+    margin-top: -13rem !important;
+    margin-left: 11.5rem !important;
 }
 
 #resources-support-heading{
