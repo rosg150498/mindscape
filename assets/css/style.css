@@ -573,6 +573,7 @@ footer {
     height: 780px;
     width: auto;
     background: url(../images/mindscape-home-image-mobile.png) no-repeat center center;
+    margin-left: 7.2rem;
     margin-top: -14rem;
     scale: 1.2;
 }
