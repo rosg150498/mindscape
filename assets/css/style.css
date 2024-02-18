@@ -516,7 +516,7 @@ footer {
 
 #responsive-logo{
     position: absolute;
-    margin-top: -2.8rem;
+    margin-top: -1rem !important;
     margin-left: -1.6rem;
 }
 
