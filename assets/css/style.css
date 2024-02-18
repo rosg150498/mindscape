@@ -510,6 +510,10 @@ footer {
 /* SMALL DEVICES */
 @media only screen and (min-width:0px) and (max-width:479px) {
 
+#mindscape-home-nav{
+    width: 578px;
+}
+
 #responsive-logo{
     position: absolute;
     margin-top: -2.8rem;
