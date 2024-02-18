@@ -580,6 +580,7 @@ footer {
 
 #home-welcoming-text{
     position: absolute !important;
+    margin-left: 6.4rem;
     margin-top: -14rem !important;
 }
 
